@@ -1,0 +1,11 @@
+Crash 1 at TimeStep: 424:
+Coordinates:
+X: [2.99891   3.869151  24.930276  28.20149 ], 
+Y: [ 2.1584259 -0.3415741  7.158426   4.658426 ]:
+EGO Lane Nr.: 0,  Agent action [0], SL detected unsafe: False
+Episode Information: {'speed': 20.330862055536215, 'crashed': True, 'action': 0, 'rewards': {'collision_reward': 1.0, 'right_lane_reward': 0.0, 'high_speed_reward': 0.03300217425323595, 'on_road_reward': 1.0}, 'TimeLimit.truncated': False, 'terminal_observation': array([[ 1.        ,  1.        ,  0.0021562 ,  0.25412527, -0.00231057],
+       [ 1.        ,  0.00732693,  0.2478438 , -0.00815038,  0.00231057],
+       [ 1.        ,  0.02504421, -0.00243098, -0.03764711,  0.00231057],
+       [ 1.        ,  0.23564322,  0.7478438 ,  0.01441842,  0.00231057],
+       [ 1.        ,  0.26489344,  0.4978438 ,  0.00581171,  0.00231057]],
+      dtype=float32)}
